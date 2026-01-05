@@ -60,8 +60,6 @@ const SolarEnergyProduction = () => {
     }
   });
 
-  console.log(filteredEnergyProductionData);
-
   return (
     <section className="px-12 font-[Inter] py-6">
       <div>
