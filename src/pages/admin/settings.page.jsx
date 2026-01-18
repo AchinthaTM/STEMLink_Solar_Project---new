@@ -1,4 +1,4 @@
-import { SettingsTab } from "./components/SettingsTab";
+import { SettingsTab } from "./Components/SettingsTab";
 
 export default function SettingsPage() {
   return (
