@@ -1,4 +1,4 @@
-import { SolarUnitsTab } from "./components/SolarUnitsTab";
+import { SolarUnitsTab } from "./Components/SolarUnitsTab";
 
 export default function SolarUnitsPage() {
   return (

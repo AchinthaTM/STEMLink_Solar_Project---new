@@ -73,6 +73,15 @@ export default function HeroSection() {
           </div>
         </div>
       </main>
+      <div>
+ <div className="relative">
+                  <img
+                    src={imgWindTurbine}
+                    alt="Solar panels on a house roof"
+                    className="max-h-8 rounded-xl object-cover sm:max-h-600 md:max-h-800 md:rounded-1xl"
+                  />
+                </div>
+                      </div>
     </div>
   );
 }
