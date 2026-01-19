@@ -1,6 +1,6 @@
 import { Outlet } from "react-router";
 import { AppSidebar } from "@/components/AppSidebar";
-import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
+import { SidebarProvider, SidebarTrigger } from "@/Components/ui/sidebar";
 
 export default function DashboardLayout() {
   return (
