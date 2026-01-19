@@ -1,7 +1,7 @@
 import { useParams, useNavigate } from "react-router";
-import { Card } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Separator } from "@/components/ui/separator";
+import { Card } from "@/Components/ui/card";
+import { Button } from "@/Components/ui/button";
+import { Separator } from "@/Components/ui/separator";
 import { ArrowLeft, Zap, Calendar, Gauge, Activity } from "lucide-react";
 import { format } from "date-fns";
 import { useGetSolarUnitByIdQuery } from "@/lib/redux/query";
