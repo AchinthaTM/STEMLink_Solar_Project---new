@@ -3,7 +3,7 @@ import {
   ChartContainer,
   ChartTooltip,
   ChartTooltipContent,
-} from "@/components/ui/charts";
+} from "@/Components/ui/charts";
 import { Area, AreaChart, CartesianGrid, XAxis, YAxis } from "recharts";
 import { format, toDate } from "date-fns";
 import { useState } from "react";
@@ -13,7 +13,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select";
+} from "@/Components/ui/select";
 import { useGetEnergyGenerationRecordsBySolarUnitQuery } from "@/lib/redux/query";
 
 const DataChart = ({ solarUnitId }) => {
