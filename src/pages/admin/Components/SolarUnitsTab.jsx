@@ -1,6 +1,6 @@
-import { Button } from "@/components/ui/button";
-import { Card } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
+import { Button } from "@/Components/ui/button";
+import { Card } from "@/Components/ui/card";
+import { Input } from "@/Components/ui/input";
 import { useGetSolarUnitsQuery } from "@/lib/redux/query";
 import { Zap } from "lucide-react";
 import { useState } from "react";
