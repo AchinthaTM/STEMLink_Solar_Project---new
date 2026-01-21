@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { SignedIn, SignedOut, UserButton } from "@clerk/clerk-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/Components/ui/button";
 
 const Navigation = () => {
   /**

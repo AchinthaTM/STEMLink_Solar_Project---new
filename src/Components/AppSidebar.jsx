@@ -9,7 +9,7 @@ import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
-} from "@/components/ui/sidebar";
+} from "@/Components/ui/sidebar";
 import { useLocation } from "react-router";
 import { cn } from "@/lib/utils";
 
