@@ -1,5 +1,5 @@
 import { useGetSolarUnitForUserQuery } from "@/lib/redux/query";
-import DataChart from "./Components/DataChart";
+import DataChart from "./components/DataChart";
 import { useUser } from "@clerk/clerk-react";
 
 const DashboardPage = () => {
