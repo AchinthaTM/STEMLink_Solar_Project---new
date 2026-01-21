@@ -1,4 +1,4 @@
-import { CreateSolarUnitForm } from "./components/CreateSolarUnitForm";
+import { CreateSolarUnitForm } from "./Components/CreateSolarUnitForm";
 
 export default function SolarUnitCreatePage() {
 

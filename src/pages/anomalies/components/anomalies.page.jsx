@@ -1,5 +1,5 @@
 import { useGetSolarUnitForUserQuery } from "@/lib/redux/query";
-import DataCard from "./components/DataCard";
+import DataCard from "./Components/DataCard";
 import { useUser } from "@clerk/clerk-react";
 
 const AnomaliesPage = () => {

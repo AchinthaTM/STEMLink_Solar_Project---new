@@ -1,5 +1,5 @@
-import { Card } from "@/components/ui/card";
-import { Skeleton } from "@/components/ui/skeleton";
+import { Card } from "@/Components/ui/card";
+import { Skeleton } from "@/Components/ui/skeleton";
 import { format, toDate } from "date-fns";
 import { useGetEnergyGenerationRecordsBySolarUnitQuery } from "@/lib/redux/query";
 import { useState } from "react";

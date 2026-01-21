@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button";
+import { Button } from "@/Components/ui/button";
 import { useSelector } from "react-redux";
 import { switchHomeTab } from "@/lib/redux/features/uiSlice";
 import { useDispatch } from "react-redux";

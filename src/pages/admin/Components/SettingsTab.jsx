@@ -1,8 +1,8 @@
 import { useState } from "react";
-import { Card } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Separator } from "@/components/ui/separator";
+import { Card } from "@/Components/ui/card";
+import { Button } from "@/Components/ui/button";
+import { Input } from "@/Components/ui/input";
+import { Separator } from "@/Components/ui/separator";
 import { Settings, Bell, Lock, Database } from "lucide-react";
 
 export function SettingsTab() {

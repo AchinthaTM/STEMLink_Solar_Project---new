@@ -1,6 +1,6 @@
 import { useGetSolarUnitByIdQuery } from "@/lib/redux/query";
 import { useNavigate, useParams } from "react-router";
-import { EditSolarUnitForm } from "./components/EditSolarUnitForm";
+import { EditSolarUnitForm } from "./Components/EditSolarUnitForm";
 
 export default function SolarUnitEditPage() {
   const { id } = useParams();
